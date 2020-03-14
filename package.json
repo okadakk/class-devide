@@ -1,0 +1,20 @@
+{
+  "name": "class-cocoa",
+  "version": "1.0.0",
+  "description": "My breathtaking Nuxt.js project",
+  "author": "keisukeponpoko",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "firebase": "^7.9.1"
+  }
+}
